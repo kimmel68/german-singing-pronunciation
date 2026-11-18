@@ -7,7 +7,7 @@
 # vowel; long vowel when doubled, followed by h, written ie, or the syllable is open; unstressed e -> schwa.
 # Wrong readings are fixed per word with `aussprache` = {word: IPA, one piece per note}, e.g. {"Mond": "moːnt"}.
 #
-# MIT License. Copyright (c) 2026 the deutsch-gesang-aussprache authors. Permission is hereby granted, free of charge,
+# MIT License. Copyright (c) 2026 the german-singing-pronunciation authors. Permission is hereby granted, free of charge,
 # to any person obtaining a copy of this software, to deal in it without restriction, including the rights to use,
 # copy, modify, merge, publish, distribute, sublicense and/or sell copies, subject to keeping this notice. THE SOFTWARE
 # IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

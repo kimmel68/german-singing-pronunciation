@@ -32,7 +32,7 @@
 #
 # The first, speech-like version of this reader is deutsch_original.py next to this file.
 #
-# MIT License. Copyright (c) 2026 the deutsch-gesang-aussprache authors. Permission is hereby granted, free of charge,
+# MIT License. Copyright (c) 2026 the german-singing-pronunciation authors. Permission is hereby granted, free of charge,
 # to any person obtaining a copy of this software, to deal in it without restriction, including the rights to use,
 # copy, modify, merge, publish, distribute, sublicense and/or sell copies, subject to keeping this notice. THE SOFTWARE
 # IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
